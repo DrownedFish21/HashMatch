@@ -1,0 +1,17 @@
+D:\Winform Application\WuHaoHash\bin\Release\net6.0-windows\WuHaoHash.exe
+D:\Winform Application\WuHaoHash\bin\Release\net6.0-windows\WuHaoHash.deps.json
+D:\Winform Application\WuHaoHash\bin\Release\net6.0-windows\WuHaoHash.runtimeconfig.json
+D:\Winform Application\WuHaoHash\bin\Release\net6.0-windows\WuHaoHash.dll
+D:\Winform Application\WuHaoHash\bin\Release\net6.0-windows\WuHaoHash.pdb
+D:\Winform Application\WuHaoHash\obj\Release\net6.0-windows\WuHaoHash.csproj.AssemblyReference.cache
+D:\Winform Application\WuHaoHash\obj\Release\net6.0-windows\WuHaoHash.FrmMain.resources
+D:\Winform Application\WuHaoHash\obj\Release\net6.0-windows\WuHaoHash.csproj.GenerateResource.cache
+D:\Winform Application\WuHaoHash\obj\Release\net6.0-windows\WuHaoHash.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winform Application\WuHaoHash\obj\Release\net6.0-windows\WuHaoHash.AssemblyInfoInputs.cache
+D:\Winform Application\WuHaoHash\obj\Release\net6.0-windows\WuHaoHash.AssemblyInfo.cs
+D:\Winform Application\WuHaoHash\obj\Release\net6.0-windows\WuHaoHash.csproj.CoreCompileInputs.cache
+D:\Winform Application\WuHaoHash\obj\Release\net6.0-windows\WuHaoHash.dll
+D:\Winform Application\WuHaoHash\obj\Release\net6.0-windows\refint\WuHaoHash.dll
+D:\Winform Application\WuHaoHash\obj\Release\net6.0-windows\WuHaoHash.pdb
+D:\Winform Application\WuHaoHash\obj\Release\net6.0-windows\WuHaoHash.genruntimeconfig.cache
+D:\Winform Application\WuHaoHash\obj\Release\net6.0-windows\ref\WuHaoHash.dll
